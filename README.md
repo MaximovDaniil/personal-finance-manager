@@ -53,3 +53,21 @@ personal-finance-manager/
 Установка бюджета: еда 15000
 Перевод средств: user2 5000
 Экспорт данных: finances.csv
+
+## Запуск
+
+# Компиляция основных классов
+javac -d bin src/com/finance/model/*.java src/com/finance/service/*.java src/com/finance/storage/*.java src/com/finance/Main.java
+
+# Запуск приложения
+java -cp bin com.finance.Main
+
+# Компиляция включая тесты
+javac -d bin \
+    src/com/finance/model/*.java \
+    src/com/finance/service/*.java \
+    src/com/finance/storage/*.java \
+    test/java/com/finance/SimpleTestRunner.java
+
+# Запуск тестов
+java -cp bin com.finance.SimpleTestRunner
