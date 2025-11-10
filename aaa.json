@@ -1,0 +1,34 @@
+[
+  {
+    "id": "758026c5-7d5a-425d-8aaf-6227783c3729",
+    "type": "INCOME",
+    "amount": 100000,00,
+    "category": "fff",
+    "description": "",
+    "date": "2025-11-10T17:34:37.872299"
+  },
+  {
+    "id": "3868f32e-10b2-4b6a-8a59-9264a45f3b0e",
+    "type": "EXPENSE",
+    "amount": 75474,00,
+    "category": "перевод",
+    "description": "Перевод пользователю abc",
+    "date": "2025-11-10T17:35:14.763569"
+  },
+  {
+    "id": "bb10ab57-161b-4964-9329-758ccbac4da5",
+    "type": "EXPENSE",
+    "amount": 7000,00,
+    "category": "qqq",
+    "description": "",
+    "date": "2025-11-10T17:35:51.981855"
+  },
+  {
+    "id": "8f3e44ee-2419-4a0a-9599-2041157cd38e",
+    "type": "EXPENSE",
+    "amount": 4000,00,
+    "category": "qqq",
+    "description": "",
+    "date": "2025-11-10T17:36:37.067318"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "8560fe88-207a-4f4b-a4cc-8af273690e82",
+    "type": "INCOME",
+    "amount": 100000,00,
+    "category": "зп",
+    "description": "",
+    "date": "2025-11-10T05:31:30.835061"
+  },
+  {
+    "id": "fcacd8ea-5f55-4824-b2fa-1224d629a4ff",
+    "type": "INCOME",
+    "amount": 2000,00,
+    "category": "aaa",
+    "description": "",
+    "date": "2025-11-10T16:49:16.650541"
+  },
+  {
+    "id": "94640ad0-733f-4483-9f81-5b08f8c44e37",
+    "type": "INCOME",
+    "amount": 100000,00,
+    "category": "зп",
+    "description": "00",
+    "date": "2025-11-10T17:01:51.511765"
+  },
+  {
+    "id": "e451ca72-acee-47db-8a39-bd799d2c3a30",
+    "type": "INCOME",
+    "amount": 2000,00,
+    "category": "aaa",
+    "description": "00",
+    "date": "2025-11-10T17:01:51.511902"
+  },
+  {
+    "id": "97036530-1f9f-4c98-9ce5-8ccb9a0f78ff",
+    "type": "EXPENSE",
+    "amount": 100000,00,
+    "category": "rrr",
+    "description": "",
+    "date": "2025-11-10T20:21:25.554602"
+  },
+  {
+    "id": "3bf68fc0-842d-4e6e-8c5e-3ebbfe948c44",
+    "type": "EXPENSE",
+    "amount": 4000,00,
+    "category": "eee",
+    "description": "",
+    "date": "2025-11-10T20:22:22.270458"
+  },
+  {
+    "id": "62fcb3e5-f4ce-44f0-8f87-bd9544fef0d6",
+    "type": "EXPENSE",
+    "amount": 100000,00,
+    "category": "hhh",
+    "description": "",
+    "date": "2025-11-10T20:22:49.428431"
+  },
+  {
+    "id": "fd51cc30-61f8-4d9e-abc4-0eff1b604206",
+    "type": "EXPENSE",
+    "amount": 1000,00,
+    "category": "qqq",
+    "description": "",
+    "date": "2025-11-10T20:23:49.315204"
+  }
+]

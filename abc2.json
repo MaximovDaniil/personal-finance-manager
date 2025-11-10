@@ -1,0 +1,18 @@
+[
+  {
+    "id": "8560fe88-207a-4f4b-a4cc-8af273690e82",
+    "type": "INCOME",
+    "amount": 100000,00,
+    "category": "зп",
+    "description": "",
+    "date": "2025-11-10T05:31:30.835061"
+  },
+  {
+    "id": "fcacd8ea-5f55-4824-b2fa-1224d629a4ff",
+    "type": "INCOME",
+    "amount": 2000,00,
+    "category": "aaa",
+    "description": "",
+    "date": "2025-11-10T16:49:16.650541"
+  }
+]
