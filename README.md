@@ -21,6 +21,7 @@ Backend-приложение для управления личными фина
 - Форматированные таблицы и справка
 
 ## Архитектура
+```
 personal-finance-manager/
 ├── src/com/finance/
 │ ├── model/ # Domain модели
@@ -30,6 +31,7 @@ personal-finance-manager/
 ├── src/test/java/com/finance # тесты
 ├── data/ # Файлы данных пользователей
 └── pom.xml # Maven конфигурация
+```
 
 ## Основные команды
 1. Добавить доход
